@@ -4,7 +4,8 @@
 - [ZMK Firmware](https://zmk.dev/docs/hardware)
 
 ## 25/07/21
-- 3d 프린터 견적 새로 넣음 [메이드올](https://madeall3d.com/) -> PLA 소재
+- 3d 프린터 견적 새로 넣음 [메이드올](https://madeall3d.com/), [3d프로](https://blog.naver.com/PostView.naver?blogId=3dprocess&logNo=223705889279&categoryNo=1&parentCategoryNo=-1&viewDate=&currentPage=&postListTopCurrentPage=) -> PLA 소재
+
 
 # TODO
 - [ ] 알아본 3d 프린팅 소재는 9600 Resin 인데 다른 사람들은 PLA를 많이 쓴듯? 어떻게 할지
